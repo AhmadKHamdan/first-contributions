@@ -1,7 +1,6 @@
 # Contributors
 - [Muawiya](https://github.com/Muawiya-contact)
 **Yossef Elshamy**
- [Ansh Gupta]
  **SEM7AC WAS HERE**
 - [Otmane SAIAOUD](https://github.com/SD-OTM/)
 - [Zawe Yan Naing](https://github.com/ZaweYanNaing)

@@ -1,7 +1,6 @@
 # Contributors
 - [Muawiya](https://github.com/Muawiya-contact)
 **Yossef Elshamy**
-- [Otmane SAIAOUD](https://github.com/SD-OTM/)
 - [Zawe Yan Naing](https://github.com/ZaweYanNaing)
 - [Ansh Gupta](https://github.com/anshgupta2403)
 - [Farhan TEnmoy](https://github.com/Ten-T-Tonmoy)
